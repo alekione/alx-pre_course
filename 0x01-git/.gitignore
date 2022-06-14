@@ -1,0 +1,7 @@
+#exclude everything that starts with ~
+~*
+~/*
+/bash/~*
+/bash/~/*
+/c/*
+/c/~/*
